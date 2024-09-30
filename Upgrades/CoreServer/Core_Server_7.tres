@@ -1,0 +1,113 @@
+[gd_resource type="Resource" script_class="data_Server_Upgrade" load_steps=2 format=3 uid="uid://c0hviqo3yq70w"]
+
+[ext_resource type="Script" path="res://Script/Data_Server_Upgrade.gd" id="1_ckwnr"]
+
+[resource]
+script = ExtResource("1_ckwnr")
+dataValue = 0
+ServerUpgradeID = 6
+Server_Name = "Core Rack 7"
+Server_Description = ""
+cost_server = 0
+cost_base_server = 0
+cost_Multiply_server = 0.0
+updates_bought_server = 0
+cost_serverrack = 6500
+cost_base_serverrack = 6500
+cost_Multiply_serverrack = 5.2
+updates_bought_serverrack = 0
+max_Rack_LVL = 5
+isResearched = false
+upgradeTypes = 1
+Server = {
+1: {
+"base_cost": 100,
+"cost": 100,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 1.0,
+"server_name": "Server 1",
+"updates_bought": 0
+},
+2: {
+"base_cost": 200,
+"cost": 200,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 1.2,
+"server_name": "Server 2",
+"updates_bought": 0
+},
+3: {
+"base_cost": 300,
+"cost": 300,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 1.4,
+"server_name": "Server 3",
+"updates_bought": 0
+},
+4: {
+"base_cost": 400,
+"cost": 400,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 1.6,
+"server_name": "Server 4",
+"updates_bought": 0
+},
+5: {
+"base_cost": 500,
+"cost": 500,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 1.8,
+"server_name": "Server 5",
+"updates_bought": 0
+},
+6: {
+"base_cost": 600,
+"cost": 600,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 2.0,
+"server_name": "Server 6",
+"updates_bought": 0
+},
+7: {
+"base_cost": 700,
+"cost": 700,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 2.2,
+"server_name": "Server 7",
+"updates_bought": 0
+},
+8: {
+"base_cost": 800,
+"cost": 800,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 2.4,
+"server_name": "Server 8",
+"updates_bought": 0
+},
+9: {
+"base_cost": 900,
+"cost": 900,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 2.6,
+"server_name": "Server 9",
+"updates_bought": 0
+},
+10: {
+"base_cost": 1000,
+"cost": 1000,
+"max_LvL": 100,
+"max_lvl_reached": false,
+"multiplier": 2.8,
+"server_name": "Server 10",
+"updates_bought": 0
+}
+}

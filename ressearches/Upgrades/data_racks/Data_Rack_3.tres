@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Research_template" load_steps=2 format=3 uid="uid://de83l8tceflru"]
+
+[ext_resource type="Script" path="res://Script/Research_Template.gd" id="1_8g4dm"]
+
+[resource]
+script = ExtResource("1_8g4dm")
+Research_Name = "Data Rack 3"
+Research_Description = "Research the Third Data Rack"
+Money_Cost = 4000
+Researchpoint_Cost = 1200
+isResearched = false
+action_Executed = 0

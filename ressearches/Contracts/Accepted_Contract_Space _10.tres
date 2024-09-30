@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Research_template" load_steps=2 format=3 uid="uid://yfpfxi6uyapm"]
+
+[ext_resource type="Script" path="res://Script/Research_Template.gd" id="1_ykn42"]
+
+[resource]
+script = ExtResource("1_ykn42")
+Research_Name = "Accepted Contract"
+Research_Description = "Get the next Accepted Contracts Space"
+Money_Cost = 7290
+Researchpoint_Cost = 3645
+isResearched = false
+id = 1
