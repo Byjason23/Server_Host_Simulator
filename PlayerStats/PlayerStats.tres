@@ -1,0 +1,29 @@
+[gd_resource type="Resource" script_class="PlayerStats" load_steps=2 format=3 uid="uid://yonex5v85u8m"]
+
+[ext_resource type="Script" path="res://Script/Player_Stats.gd" id="1_sflu3"]
+
+[resource]
+script = ExtResource("1_sflu3")
+Money = 600000
+Research_Points = 0.0
+DataServer_Space = 5.0
+DataServer_UsedSpace = 0.0
+CloudServer_Space = 10.0
+CloudServer_UsedSpace = 0.0
+CoreServer_Space = 7.0
+CoreServer_UsedSpace = 0.0
+acContract = 0
+acContractSpace = 1
+DataMoneyValue = 2
+CloudMoneyValue = 1
+CoreMoneyValue = 3
+allMoneyPerSecond = 0
+saveTime = 0
+minCoreValue = 1
+maxCoreValue = 7
+minDataValue = 2
+maxDataValue = 5
+minCloudValue = 5
+maxCloudValue = 10
+firstTimePlayed = true
+gameVersion = 7

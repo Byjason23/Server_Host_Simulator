@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="accContract_data" load_steps=2 format=3 uid="uid://d0k7o0ms1cjgx"]
+
+[ext_resource type="Script" path="res://Script/accContract_Data.gd" id="1_3ftwv"]
+
+[resource]
+script = ExtResource("1_3ftwv")
+coreValue = 0
+dataValue = 0
+cloudValue = 0
+moneyValue = 0
+moneyTimeValue = 0.0
+contractUsed = false

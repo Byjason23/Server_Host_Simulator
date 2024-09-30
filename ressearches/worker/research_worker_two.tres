@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="research_Worker" load_steps=2 format=3 uid="uid://c1hhc10c1tfcu"]
+
+[ext_resource type="Script" path="res://Script/Research_Worker_res.gd" id="1_hjcx5"]
+
+[resource]
+script = ExtResource("1_hjcx5")
+money_cost = 650
+reasearch_worker_bought = 0
+research_points_value = 2.0
+Worker_Name = "Basic Worker"
+Worker_Desciption = "Knows the Basic in his Job "
